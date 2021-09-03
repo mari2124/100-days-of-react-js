@@ -1,0 +1,60 @@
+.container-fluid .col-sm-12 {
+  padding: 0 !important;
+}
+.container-fluid {
+  padding: 0 !important;
+}
+.home-container {
+  padding: 50px 0px;
+}
+.row {
+  margin: 0 !important;
+}
+.Search {
+  padding: 50px 0 75px 0;
+  background-image: url(../../asset/images/bg.jpg);
+  background-size: cover;
+}
+.Search h3 {
+  padding: 25px 0px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+}
+.Search input[type="text"] {
+  width: 50%;
+  padding: 10px 20px;
+  margin: 5px 12px;
+  border-radius: 7px;
+  border: 1px solid #ccc;
+}
+.Search input[type="text"]:focus {
+  border: 1px solid #ccc;
+}
+
+.custom-navtabs ul {
+  padding: 0;
+}
+.custom-navtabs ul li {
+  list-style-type: none;
+  width: 30%;
+  display: inline-block;
+  padding: 0px 12px;
+  margin: 10px 10px;
+}
+li.react-multi-carousel-item {
+  padding: 17px 17px;
+}
+.cus-menu .nav {
+  padding: 15px 10px;
+}
+.cus-menu .nav .nav-item {
+  font-size: 18px;
+}
+.cus-menu .nav .nav-item .nav-link {
+  color: black;
+  font-weight: 700;
+}
+.Home-slider {
+  padding: 70px 15px;
+}
